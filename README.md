@@ -1,0 +1,1 @@
+# Fsociety00_alderson_core.dat
